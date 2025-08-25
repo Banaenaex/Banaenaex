@@ -2,12 +2,19 @@
 
 
 About me
+
   -24/7 student
+  
   -Sleep deprived
+ 
   -Coder
+ 
   -Musician
+  
   -Badminton player
+ 
   -Robotics& info-comm
+  
   -ENTJ-A
 
 
