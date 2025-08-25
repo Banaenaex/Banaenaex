@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi~ I'm Lucky , a typical student
 
+About me
+  -24/7 student
+  -Sleep deprived
+  -Coder
+  -Musician
+  -Badminton player
+  -Robotics& info-comm
+  -ENTJ-A
+Coming soon
+  -PAWAR collab with @ syntaxxx
+   Description:A app where you can pat animals show affection for the animal.Target audience is people who are allergic to pets or don't have one.
+Languages I use:
+  - Scratch
+  - Python
+  - C++(Not fluent)
+  - Javascript(Not fluent)
+  - Swift
+Social media:
+  - Discord: @xxwarriorsxx
+  - instagram:@xxstarrysssxx
+  - osu:@A_lil_banaenaex
+  - X :@XxbananaexX
+  
 <!--
-**Banaenaex/Banaenaex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
