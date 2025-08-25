@@ -1,7 +1,7 @@
-## Hi~ I'm Lucky , a typical student
+## Hi~ I'm Lucky!
 
 
-About me
+About me:
 
   -24/7 student
   
@@ -18,7 +18,8 @@ About me
   -ENTJ-A
 
 
-Coming soon
+Coming soon...
+  
   -PAWAR collab with @ syntaxxx
    Description:A app where you can pat animals show affection for the animal.Target audience is people who are allergic to pets or don't have one.
 
