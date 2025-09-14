@@ -19,9 +19,7 @@ About me:
 
 
 Coming soon...
-  
-  -PAWAR collab with @ syntaxxx
-   Description:A app where you can pat animals show affection for the animal.Target audience is people who are allergic to pets or don't have one.
+some random stuff (don't ask why) might spend a long time working on it cause got to focus on studies.
 
 
 Languages I use:
