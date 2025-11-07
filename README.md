@@ -32,9 +32,9 @@ Languages I use:
 
 Social media:
   - Discord: @xxwarriorsxx
-  - instagram:@xxstarrysssxx
+    
   - osu:@A_lil_banaenaex
-  - X :@XxbananaexX
+
   
 <!--
 
